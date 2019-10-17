@@ -1,0 +1,3 @@
+jcp.o: jcp.c turbow.h univbin.h romdump.h flashstub.h dumpver.h \
+ flash_cof.h upgrade101.h jcp_handler.h
+jcp_handler.o: jcp_handler.c jcp_handler.h
